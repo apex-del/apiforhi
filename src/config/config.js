@@ -24,7 +24,7 @@ const config = {
   port: 5000,
 
   // External proxy URL for streaming
-  proxyUrl: 'https://xeanimeproxy.howtoopengemail.workers.dev',
+  proxyUrl: 'https://hianime-api-proxy.anonymous-0709200.workers.dev',
 
   // Redis configuration (leave empty to disable caching)
   redis: {
